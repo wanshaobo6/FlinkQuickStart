@@ -1,7 +1,4 @@
-package org.alliswell.flink.api;
-
-import org.apache.flink.streaming.api.datastream.DataStreamSource;
-import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
+package org.alliswell.flink.tmp.api;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package org.alliswell.flink;
+package org.alliswell.flink.tmp;
 
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 import org.apache.flink.streaming.api.datastream.DataStream;

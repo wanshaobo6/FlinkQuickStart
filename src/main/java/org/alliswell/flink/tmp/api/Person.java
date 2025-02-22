@@ -1,4 +1,4 @@
-package org.alliswell.flink.api;
+package org.alliswell.flink.tmp.api;
 
 public class Person {
     public String name;  

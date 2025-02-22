@@ -1,4 +1,4 @@
-package org.alliswell.flink;
+package org.alliswell.flink.tmp;
 
 import org.apache.flink.api.common.functions.FlatMapFunction;
 import org.apache.flink.api.java.DataSet;
